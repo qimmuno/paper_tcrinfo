@@ -1,0 +1,3 @@
+aaindex==1.1.2
+pepdata==1.0.7
+pyrepseq==1.5

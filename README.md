@@ -1,5 +1,7 @@
 # Limits on Inferring T-cell Specificity from Partial Information
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13760163.svg)](https://doi.org/10.5281/zenodo.13760163)
+
 ![alt text](figures/figure2_central.svg)
 
 This repository contains the relevant source code for the manuscript "Limits on inferring T cell specificity from partial information"
